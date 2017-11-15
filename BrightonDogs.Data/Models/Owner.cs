@@ -12,7 +12,7 @@ namespace BrightonDogs.Data.Models
         public string Address { get; set; }
         public int PhoneNumber { get; set; }
 
-        public IEnumerable<Dog> Dogs { get; set; }
+        public virtual IEnumerable<Dog> Dogs { get; set; }
 
     }
 }

@@ -1,0 +1,14 @@
+C:\Users\TOM\Desktop\2018\c#\dotNet\BrightonDogs\BrightonDogs\obj\Debug\netcoreapp2.0\BrightonDogs.csprojResolveAssemblyReference.cache
+C:\Users\TOM\Desktop\2018\c#\dotNet\BrightonDogs\BrightonDogs\obj\Debug\netcoreapp2.0\BrightonDogs.csproj.CoreCompileInputs.cache
+C:\Users\TOM\Desktop\2018\c#\dotNet\BrightonDogs\BrightonDogs\obj\Debug\netcoreapp2.0\UserSecretsAssemblyInfo.cs
+C:\Users\TOM\Desktop\2018\c#\dotNet\BrightonDogs\BrightonDogs\obj\Debug\netcoreapp2.0\BrightonDogs.AssemblyInfoInputs.cache
+C:\Users\TOM\Desktop\2018\c#\dotNet\BrightonDogs\BrightonDogs\obj\Debug\netcoreapp2.0\BrightonDogs.AssemblyInfo.cs
+C:\Users\TOM\Desktop\2018\c#\dotNet\BrightonDogs\BrightonDogs\bin\Debug\netcoreapp2.0\BrightonDogs.deps.json
+C:\Users\TOM\Desktop\2018\c#\dotNet\BrightonDogs\BrightonDogs\bin\Debug\netcoreapp2.0\BrightonDogs.runtimeconfig.json
+C:\Users\TOM\Desktop\2018\c#\dotNet\BrightonDogs\BrightonDogs\bin\Debug\netcoreapp2.0\BrightonDogs.runtimeconfig.dev.json
+C:\Users\TOM\Desktop\2018\c#\dotNet\BrightonDogs\BrightonDogs\bin\Debug\netcoreapp2.0\BrightonDogs.dll
+C:\Users\TOM\Desktop\2018\c#\dotNet\BrightonDogs\BrightonDogs\bin\Debug\netcoreapp2.0\BrightonDogs.pdb
+C:\Users\TOM\Desktop\2018\c#\dotNet\BrightonDogs\BrightonDogs\bin\Debug\netcoreapp2.0\BrightonDogs.Data.dll
+C:\Users\TOM\Desktop\2018\c#\dotNet\BrightonDogs\BrightonDogs\bin\Debug\netcoreapp2.0\BrightonDogs.Data.pdb
+C:\Users\TOM\Desktop\2018\c#\dotNet\BrightonDogs\BrightonDogs\obj\Debug\netcoreapp2.0\BrightonDogs.dll
+C:\Users\TOM\Desktop\2018\c#\dotNet\BrightonDogs\BrightonDogs\obj\Debug\netcoreapp2.0\BrightonDogs.pdb

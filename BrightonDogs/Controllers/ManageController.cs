@@ -13,6 +13,7 @@ using Microsoft.Extensions.Options;
 using BrightonDogs.Models;
 using BrightonDogs.Models.ManageViewModels;
 using BrightonDogs.Services;
+using BrightonDogs.Data.Models;
 
 namespace BrightonDogs.Controllers
 {

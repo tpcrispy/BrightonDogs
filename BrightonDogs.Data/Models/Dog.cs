@@ -21,7 +21,7 @@ namespace BrightonDogs.Data.Models
         public string Breed { get; set; }
 
         public int OwnerId { get; set; }
-        public Owner Owner { get; set; }
+        public virtual Owner Owner { get; set; }
 
     }
 }
