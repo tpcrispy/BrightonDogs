@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26730.16
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BrightonDogs", "BrightonDogs\BrightonDogs.csproj", "{8FF2BA17-1A13-468F-A671-E9C362AFC367}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BrightonDogs.Data", "BrightonDogs.Data\BrightonDogs.Data.csproj", "{2F95A0A4-451F-4735-9D80-44AB79873D84}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8FF2BA17-1A13-468F-A671-E9C362AFC367}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8FF2BA17-1A13-468F-A671-E9C362AFC367}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8FF2BA17-1A13-468F-A671-E9C362AFC367}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8FF2BA17-1A13-468F-A671-E9C362AFC367}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2F95A0A4-451F-4735-9D80-44AB79873D84}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2F95A0A4-451F-4735-9D80-44AB79873D84}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2F95A0A4-451F-4735-9D80-44AB79873D84}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2F95A0A4-451F-4735-9D80-44AB79873D84}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B7625A13-1C69-475E-9DE2-B22E89C3F95F}
+	EndGlobalSection
+EndGlobal

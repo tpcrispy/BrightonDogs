@@ -1,0 +1,6 @@
+C:\Users\TOM\Desktop\2018\c#\dotNet\BrightonDogs\BrightonDogs.Data\bin\Debug\netcoreapp2.0\BrightonDogs.Data.deps.json
+C:\Users\TOM\Desktop\2018\c#\dotNet\BrightonDogs\BrightonDogs.Data\bin\Debug\netcoreapp2.0\BrightonDogs.Data.dll
+C:\Users\TOM\Desktop\2018\c#\dotNet\BrightonDogs\BrightonDogs.Data\obj\Debug\netcoreapp2.0\BrightonDogs.Data.csprojResolveAssemblyReference.cache
+C:\Users\TOM\Desktop\2018\c#\dotNet\BrightonDogs\BrightonDogs.Data\obj\Debug\netcoreapp2.0\BrightonDogs.Data.csproj.CoreCompileInputs.cache
+C:\Users\TOM\Desktop\2018\c#\dotNet\BrightonDogs\BrightonDogs.Data\obj\Debug\netcoreapp2.0\BrightonDogs.Data.AssemblyInfoInputs.cache
+C:\Users\TOM\Desktop\2018\c#\dotNet\BrightonDogs\BrightonDogs.Data\obj\Debug\netcoreapp2.0\BrightonDogs.Data.AssemblyInfo.cs
