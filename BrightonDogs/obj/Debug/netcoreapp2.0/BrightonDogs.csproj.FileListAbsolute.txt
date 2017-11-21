@@ -12,3 +12,5 @@ C:\Users\TOM\Desktop\2018\c#\dotNet\BrightonDogs\BrightonDogs\bin\Debug\netcorea
 C:\Users\TOM\Desktop\2018\c#\dotNet\BrightonDogs\BrightonDogs\bin\Debug\netcoreapp2.0\BrightonDogs.Data.pdb
 C:\Users\TOM\Desktop\2018\c#\dotNet\BrightonDogs\BrightonDogs\obj\Debug\netcoreapp2.0\BrightonDogs.dll
 C:\Users\TOM\Desktop\2018\c#\dotNet\BrightonDogs\BrightonDogs\obj\Debug\netcoreapp2.0\BrightonDogs.pdb
+C:\Users\TOM\Desktop\2018\c#\dotNet\BrightonDogs\BrightonDogs\bin\Debug\netcoreapp2.0\BrightonDogs.Service.dll
+C:\Users\TOM\Desktop\2018\c#\dotNet\BrightonDogs\BrightonDogs\bin\Debug\netcoreapp2.0\BrightonDogs.Service.pdb

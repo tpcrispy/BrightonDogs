@@ -12,6 +12,7 @@ using BrightonDogs.Data;
 using BrightonDogs.Models;
 using BrightonDogs.Services;
 using BrightonDogs.Data.Models;
+using BrightonDogs.Service;
 
 namespace BrightonDogs
 {
@@ -36,6 +37,7 @@ namespace BrightonDogs
 
             // Add application services.
             services.AddTransient<IEmailSender, EmailSender>();
+            services.AddScoped<IDog, DogService>();
 
             services.AddMvc();
         }

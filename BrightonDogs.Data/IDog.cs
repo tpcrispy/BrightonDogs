@@ -1,6 +1,6 @@
 ﻿using BrightonDogs.Data.Models;
 using System.Collections.Generic;
-using BrightonDogs.Models.Dogs;
+using System.Linq;
 using System.Threading.Tasks;
 
 namespace BrightonDogs.Data
@@ -8,8 +8,9 @@ namespace BrightonDogs.Data
     public interface IDog
     {
         Dog GetById(int id);
-        IEnumerable<Dog> GetAll();
-        IEnumerable<Dog> GetFilteredDog(DogSearchModel searchModel);
+        IEnumerable<Dog> GetAllDogInfo();
+        IEnumerable<DogBasicModel> GetBasicDogInfo();
+        IEnumerable<DogBasicModel> GetFilteredDog(DogSearchModel searchModel);
 
         //CUD's
         Task Create(Dog dog);

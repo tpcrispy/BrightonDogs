@@ -1,0 +1,33 @@
+﻿@model BrightonDogs.Models.Dogs.DogSearchResults
+<h1>Dogs</h1>
+
+
+
+<table class="table table-hover">
+    <thead>
+        <tr>
+            <th>Dogs Name</th>
+            <th>Dogs Microchip</th>
+            <th>Dogs Tag Color</th>
+            <th>Dogs Owner</th>
+            <th>View More Info:</th>
+
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var dog in Model.DogList)
+        {
+            <tr>
+                <td>@dog.Name</td>
+                <td>@dog.Microchip</td>
+                <td>@dog.Tagcolor</td>
+                <td>@dog.OwnersName</td>
+                <td>
+                    <a asp-controller="Dog" asp-action="Info" asp-route-id="@dog.Id">More Info</a>
+                </td>
+
+            </tr>
+
+        }
+    </tbody>
+</table>

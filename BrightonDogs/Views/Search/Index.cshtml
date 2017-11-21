@@ -1,0 +1,16 @@
+﻿@model BrightonDogs.Data.DogSearchModel
+
+<h1>Search</h1>
+
+<form asp-controller="Search" method="post" asp-action="Search">
+
+    <label asp-for="Micrhochip">TEST</label>
+    <input  type="number"  value="" name="Micrhochip" />
+
+    <label asp-for="Name">Name</label>
+    <input type="text" value="" name="Name" />
+
+    <input type="submit" value="Filter" />
+
+
+</form>

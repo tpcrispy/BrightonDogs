@@ -4,4 +4,8 @@
     <TargetFramework>netcoreapp2.0</TargetFramework>
   </PropertyGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\BrightonDogs.Data\BrightonDogs.Data.csproj" />
+  </ItemGroup>
+
 </Project>

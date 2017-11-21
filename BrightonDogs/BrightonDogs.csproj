@@ -20,6 +20,7 @@
 
   <ItemGroup>
     <ProjectReference Include="..\BrightonDogs.Data\BrightonDogs.Data.csproj" />
+    <ProjectReference Include="..\BrightonDogs.Service\BrightonDogs.Service.csproj" />
   </ItemGroup>
 
 </Project>
